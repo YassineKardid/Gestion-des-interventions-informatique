@@ -1,0 +1,19 @@
+#fot h1{
+    font-size: 24px;
+    text-decoration-color: azure;
+    
+}
+#fot mark {
+  ackground-color: rgb(160, 127, 117);
+  color: rgb(247, 207, 207);
+  padding-left: 12px;
+  padding-right: 12px;
+}
+/*#fot a
+{ 
+    text-align-last: center;
+}
+/*.bord
+{
+    border-radius: 10px;
+}*/

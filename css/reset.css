@@ -1,0 +1,124 @@
+a,abbr,acronym,address,applet,article,aside,audio/*,b*/,blockquote,big,body,/*center,*/canvas,caption,cite,code,command,datalist,dd,del,details,dfn,dl,div,dt,em,embed,fieldset,figcaption,figure,font,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,keygen,label,legend,li,meter,nav,object,ol,output,p,pre,progress,q,s,samp,section,small,span,source,strike,strong,sub,sup,table,tbody,tfoot,thead,th,tr,tdvideo,tt,u,ul,var{
+    background:transparent;border:0 none;font-size:100%;margin:0;padding:0;
+    padding-bottom: 15px;
+    border:0;outline:0;vertical-align:top;
+}
+ol, ul {list-style:none;}blockquote, q {quotes:none;}table, table td {padding:0;/*margin-left: 300px;*/ border:none;border-collapse:collapse;}img {vertical-align:top;}embed {vertical-align:top;}input[type=text], textarea{ outline:none;border-radius:0;}
+
+#titre h3{
+   font-style: normal;
+  
+  color: rgb(90, 80, 98);
+  font-weight: normal;
+  background: transparent;
+  border: 0 none;
+  font-size: 158%;
+  padding-bottom: 58px;
+ 
+  vertical-align: top;
+  margin-left: 10px;
+   
+}
+#titre h5
+{   color: crimson;
+    margin-left: -927px;
+   font-size: 143%;
+    font-style: normal;
+    background: transparent;
+    border: 0 none;
+   padding-bottom: 15px;
+   border: 0;
+   outline: 0;
+   vertical-align: top;
+}
+#dat input
+{
+    font-size: 22px;
+  margin-left: 45px;
+}
+
+
+
+
+
+	
+
+		#enrg input:focus{
+			outline: 0;
+			border-color: #aaa;
+			-moz-box-shadow: 0 2px 1px rgba(0, 0, 0, .3) inset;
+			-webkit-box-shadow: 0 2px 1px rgba(0, 0, 0, .3) inset;
+			box-shadow: 0 2px 1px rgba(0, 0, 0, .3) inset;
+		}	
+
+		#enrg button{
+			margin-left: 740px;
+			padding: 8px 8px;			
+			width: 31%;
+			cursor: pointer;
+			border: 1px solid #F5157B;
+			overflow: visible;
+			display: inline-block;
+			color: #fff;
+			font: bold 1.1em arial, helvetica;
+			text-shadow: 0 -1px 0 rgba(0,0,0,.4);		  
+			background-color: #F50C65;
+			background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,.5)), to(rgba(255,255,255,0)));
+			background-image: -webkit-linear-gradient(top, rgba(255,255,255,.5), rgba(255,255,255,0));
+			background-image: -moz-linear-gradient(top, rgba(255,255,255,.5), rgba(255,255,255,0));
+			background-image: -ms-linear-gradient(top, rgba(255,255,255,.5), rgba(255,255,255,0));
+			background-image: -o-linear-gradient(top, rgba(255,255,255,.5), rgba(255,255,255,0));
+			background-image: linear-gradient(top, rgba(255,255,255,.5), rgba(255,255,255,0));
+			-webkit-transition: background-color .2s ease-out;
+			-moz-transition: background-color .2s ease-out;
+			-ms-transition: background-color .2s ease-out; 
+			-o-transition: background-color .2s ease-out;  
+			transition: background-color .2s ease-out;
+			-moz-border-radius: 3px;
+			-webkit-border-radius: 3px;
+			border-radius: 3px;
+			-moz-box-shadow:  0 2px 1px rgba(0, 0, 0, .3),
+							  0 1px 0 rgba(255, 255, 255, .5) inset;
+			-webkit-box-shadow: 0 2px 1px rgba(0, 0, 0, .3),
+								0 1px 0 rgba(255, 255, 255, .5) inset;
+			box-shadow: 0 2px 1px rgba(0, 0, 0, .3),
+						0 1px 0 rgba(255, 255, 255, .5) inset;			  						  
+		}
+
+		#enrg button:hover{
+		  	background-color: #F732D6;;
+            border-color: #7cbfff;
+		}
+
+		#enrg button:active{
+			position: relative;
+			top: 3px;
+			text-shadow: none;
+			-moz-box-shadow: 0 1px 0 rgba(255, 255, 255, .3) inset;
+			-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, .3) inset;
+			box-shadow: 0 1px 0 rgba(255, 255, 255, .3) inset;
+		}
+
+		/* ------------------------------------------------- */
+
+		#about{
+		    color: #999;
+		    text-align: center;
+		    font: 0.9em Arial, Helvetica;
+		}
+
+		#about a{
+		    color: #777;
+		}
+
+
+
+
+
+
+
+
+
+
+
+

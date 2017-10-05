@@ -1,0 +1,176 @@
+/*la division de la page*/
+
+
+/*#entete, #menu, #contenu, #footer {
+padding:1px 0;
+}*/
+#entete {
+background-color:#FF9900;
+text-align:center;
+}
+#main {
+max-with:960px;
+margin:auto;
+}
+#menu  {
+float: left;
+  width: 17%;
+  background-color: #D0DDDF;
+  padding-bottom: 168px;
+  margin-left: 76px;
+  margin-top: 116px;
+  border: 31px;
+  border-color: rgb(14, 14, 29);
+}
+#menu1  {
+float: left;
+  width: 17%;
+  background-color: #D0DDDF;
+  padding-bottom: 171px;
+  margin-left: 312px;
+  margin-top: -194px;
+  border: 31px;
+  border-color: rgb(14, 14, 29);
+}
+
+#menu2  {
+  float: left;
+  width: 17%;
+  background-color: #D0DDDF;
+  padding-bottom: 171px;
+  margin-left: 551px;
+  margin-top: -209px;
+  border: 31px;
+  border-color: rgb(14, 14, 29);
+}
+
+
+#menu3  {
+  float: left;
+  width: 17%;
+  background-color: #D0DDDF;
+  padding-bottom: 171px;
+  margin-left:792px;
+  margin-top: -224px;
+  border: 31px;
+  border-color: rgb(14, 14, 29);
+}
+
+
+#contenu {
+margin-left:245px;
+background-color:#9966FF;
+}
+#footer {
+background-color: rgb(195, 213, 208);
+  clear: both;
+  padding-bottom: 302px;
+  margin-top: 45px;
+}
+
+
+
+/*///////////////////////////////////////////*/
+.required1 {
+  color: #e35845;
+  margin-left: 59px;
+}
+
+.required2 {
+  color: #e35845;
+  margin-left: 25px;
+}
+
+.required3 {
+  color: #e35845;
+  margin-left: 54px;
+}
+.required4 {
+  color: #e35845;
+  margin-left: 4px;
+}
+
+
+
+.required5 {
+  color: #e35845;
+  margin-left: 55px;
+}
+.required6 {
+  color: #e35845;
+  margin-left: 90px;
+}
+
+
+
+
+.required7 {
+  color: #e35845;
+  margin-left: 18px;
+}
+.required8 {
+  color: #e35845;
+  margin-left: 140px;
+}
+
+
+.required9 {
+  color: #151313;
+  margin-left: -4px;
+  padding-bottom: 6px;
+  padding-top: 7px;
+  font-size: 13px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.left
+{ float:left; 
+    width : 50%;
+    height: 146px;
+margin:50px 0px 0 0px; }
+.right
+{ float:right; 
+    width : 50%;
+    height: 146px;
+margin:50px 0px 0 0px; } // marge = haut,droite,bas,gauche
+
+.redal{
+    padding-top: 500px;
+}
+
+.decortext { 
+    text-decoration-line: underline;
+    text-decoration-color: red;
+    text-decoration-style: solid;
+}
+
+
+header2.homepage {
+	margin: 0 10px;
+	padding:0 0px 0 0px;
+}
+header2 {
+	margin: 0 10px;
+	padding: 48px 0 48px;
+}
+header2 .logo {
+    padding-top: 100px;
+	font-size: 50px;
+	color: #F55F5F;
+	text-shadow: 1px 1px 0px #381511;
+	-webkit-transition: all 500ms cubic-bezier(0.250, 0.460, 0.450, 0.940);
+	-moz-transition: all 500ms cubic-bezier(0.250, 0.460, 0.450, 0.940);
+	-ms-transition: all 500ms cubic-bezier(0.250, 0.460, 0.450, 0.940);
+	-o-transition: all 500ms cubic-bezier(0.250, 0.460, 0.450, 0.940);
+	transition: all 500ms cubic-bezier(0.250, 0.460, 0.450, 0.940);
+}
+
